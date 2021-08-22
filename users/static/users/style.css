@@ -1,0 +1,28 @@
+body {
+    font-size: 1rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+}
+.div-main {
+    display: inline-block;
+    margin: auto;
+    line-height: 2px solid grey;
+
+}
+.div-main input {
+    margin: 2px;
+}
+.div-main input[type="submit"] {
+    width: 80px;
+    background-color: rgb(71, 185, 223);
+    color: white;
+    border: 1px solid black;
+}
+.div-main-inside {
+    text-align: left;
+    line-height: 2px solid grey;
+    padding: 5px;
+    border-radius: 10px;
+}

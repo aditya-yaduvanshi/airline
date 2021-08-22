@@ -1,0 +1,16 @@
+body {
+    width: 100%;
+    background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 1rem;
+}
+.div-main {
+    width: 100%;
+    padding: 2px;
+}
+.div-main-inside {
+    line-height: 2px solid grey;
+    width: 100%;
+    margin: auto;
+}
